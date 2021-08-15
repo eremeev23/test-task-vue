@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Bw Modelica';
+    src: local('Bw Modelica Medium'), local('Bw-Modelica-Medium'),
+        url('BwModelicaCyrillicDEMO-Medium.woff2') format('woff2'),
+        url('BwModelicaCyrillicDEMO-Medium.woff') format('woff'),
+        url('BwModelicaCyrillicDEMO-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
