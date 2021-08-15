@@ -1,4 +1,6 @@
 # vue-test-task
+Задание на вакансию Frontend разработчика в Ecwid.
+
 
 ## Project setup
 ```
